@@ -2,11 +2,11 @@
 It's representing the algorithms such as Pair, Stripes and Hybrid approaches in Map Reduce.
 
 
-Create the HDFS file system
+Create the HDFS file system by using below command<br>
 	Hadoop fs -put file.txt file.txt
 	
-View the HDFS file system (Check whether our file exist or not)
+View the HDFS file system (Check whether our file exist or not) by using below command<br>
 	Hadoop fs -ls
 	
-Run the project by using created HDFS
+Run the project by using created HDFS by using below command<br>
 	Hadoop jar wordcount.jar WordCount file.txt wordcountoutput
