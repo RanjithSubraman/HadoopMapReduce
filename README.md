@@ -10,3 +10,5 @@ View the HDFS file system (Check whether our file exist or not) by using below c
 	
 Run the project by using created HDFS by using below command<br>
 	Hadoop jar wordcount.jar WordCount file.txt wordcountoutput
+	
+Please read this post for more information and setup: http://ranjithdroid.blogspot.com/2015/09/setup-for-mapreduce-program-with.html
